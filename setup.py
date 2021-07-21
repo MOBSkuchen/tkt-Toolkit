@@ -24,7 +24,8 @@ setuptools.setup(
         'cryptography',
         'pytube',
         'random',
-        'gtts'
+        'gtts',
+        'SpeechRecognition'
     ],
     classifiers=[
         "Programming Language :: Python :: 3",
