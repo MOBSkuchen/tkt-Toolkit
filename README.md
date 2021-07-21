@@ -1,10 +1,10 @@
-#tkt - Toolkit
+# tkt - Toolkit
 ****
 ## Version : 1.3.5
 This Package is made and published by the Suprime LLC
 
 Read more about the License in the ``license.txt`` file.
-#Used packages:
+# Used packages:
 ****
 * **pytube**
 * **base64**
@@ -18,12 +18,12 @@ Read more about the License in the ``license.txt`` file.
 * **random**
 * **string**
 * **TikTokApi**
-#Description:
+# Description:
 ****
 **Suprime's Toolkit python package, is a wide collection of packages and scripts, bundled in to
 one package. It is optimized for python 3.8, but it also works with python 3.9,3.7,3.6.
 Not all of the scripts used are made by us.**
-#Features:
+# Features:
 ****
 * **Voice recognition using pyaudio and speech_recognition.**
 ####  
@@ -33,9 +33,9 @@ Not all of the scripts used are made by us.**
 ####  
 * Smaller features: **Weather-data**, **TextToSpeech**, **Email sending**, **Get-ip**, **Xbox-controller input reader**, **Calculator**
 * ### There are features still in progress 
-#Examples
+# Examples
 ****
 **For some code Examples, please read the `examples.txt` file.**
-#Contact:
+# Contact:
 ****
 **Our email support: suprime.sendings@gmail.com**
