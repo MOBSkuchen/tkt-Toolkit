@@ -30,7 +30,7 @@ Not all of the scripts used are made by us.**
 ####
 * **Cryptography using cryptography.**
 ####  
-* Smaller features: **Weather-data**, **TextToSpeech**, **Get-ip**, **Xbox-controller input reader**, **Calculator**
+* Smaller features: **Weather-data**, **TextToSpeech**, **Get-ip**,  **Calculator**
 * ### There are features still in progress 
 # Examples
 ****
