@@ -23,7 +23,6 @@ setuptools.setup(
         'TikTokApi',
         'cryptography',
         'pytube',
-        'smtplib',
         'json',
         'random',
         'gtts'
