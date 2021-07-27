@@ -1,6 +1,6 @@
 # tkt-Toolkit
 ****
-## Version : 1.4.0
+## Version : 1.4.9
 This Package is made and published by the Suprime LLC
 
 Read more about the License in the ``license.txt`` file.
@@ -30,7 +30,7 @@ Not all of the scripts used are made by us.**
 ####
 * **Cryptography using cryptography.**
 ####  
-* Smaller features: **Weather-data**, **TextToSpeech**, **Get-ip**,  **Calculator**
+* Smaller features: **Weather-data**, **TextToSpeech**, **Get-ip**, **Calculator**
 * ### There are features still in progress 
 # Examples
 ****

@@ -3,12 +3,20 @@
 ****
 
 ## Use this to import  everything
-> from Toolkit import Toolkit
-> 
-> from Toolkit import tkt
-## Example of TextScan
-### `tkt.scanImg('dir/to/img.png')`
+```python
+from Toolkit import Toolkit
+from Toolkit import tkt
+```
+##Example of getcolor
+```python
+from Toolkit import tkt
+tkt.get_color((1,2,3))
+```
 ## Example of Transltion
-### ``tkt.translate('Example Text','de','en')``
+```python
+from Toolkit import tkt
+print(tkt.translate('Ich bin der Manuel, ich geh auf die Straße und kauf mir Mehl','en'))
+```
+
 ### You can also just leave 'From' blank or set it to 'auto', if you don't know the Language of 'Text'.
 # More Examples will be added soon.
