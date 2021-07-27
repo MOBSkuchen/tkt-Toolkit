@@ -1,6 +1,6 @@
 # tkt-Toolkit
 ****
-## Version : 1.4.9
+## Version : 1.4.2
 This Package is made and published by the Suprime LLC
 
 Read more about the License in the ``license.txt`` file.
@@ -34,7 +34,7 @@ Not all of the scripts used are made by us.**
 * ### There are features still in progress 
 # Examples
 ****
-**For some code Examples, please read the `examples.txt` file.**
+**For some code Examples, please read the `examples.md` file.**
 # Contact:
 ****
 **Our email support: suprime.sendings@gmail.com**
