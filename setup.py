@@ -3,9 +3,21 @@ import setuptools
 with open("README.md", "r") as fh:
     long_description = fh.read()
 
+print('Installing Toolkit with the dependencies : ')
+print('httpx',
+        'youtube-search-python',
+        'TikTokApi',
+        'cryptography',
+        'pytube',
+        'gtts',
+        'discord',
+        'googletrans==3.1.0a0',
+        'SpeechRecognition',
+        'termcolor')
+
 setuptools.setup(
     name="tkt-Toolkit",
-    version="1.4.0",
+    version="1.5",
     author="Suprime",
     license = 'MIT',
     author_email="suprime.sendings@gmail.com",
@@ -18,14 +30,14 @@ setuptools.setup(
     zip_safe=False,
     install_requires=[
         'httpx',
-        'speech_recognition',
         'youtube-search-python',
-        'TikTokApi',
         'cryptography',
         'pytube',
-        'random',
         'gtts',
-        'SpeechRecognition'
+        'discord',
+        'googletrans==3.1.0a0',
+        'SpeechRecognition',
+        'termcolor'
     ],
     classifiers=[
         "Programming Language :: Python :: 3",
